@@ -11,7 +11,7 @@
 
 
 
-## Transcribe 
+## Translate
 
 >This activity is for beginners to writing shell scripts, or those who just want to brush up on their UNIX skills.
 
