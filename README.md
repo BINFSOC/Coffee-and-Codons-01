@@ -3,6 +3,8 @@
 
 > First published 9 Oct 2021
 
+![Poster](https://github.com/BINFSOC/Coffee-and-Codons-01/blob/03937e3deec4b9568a72de280a440e89ef997fd8/CAC001.png)
+
 ## Introduction 
 
 **Coffee + Codons** is a new publication from [BINFSOC](https://www.unswbinfsoc.com) which contains short, little walkthroughs for practical bioinformatics tools or just as a practise for beginners.  We also might share some already existing tools or tricks that we come across.  The main idea is that these should be quick enough that you can follow along, while enjoying a cup of coffee.  So grab your favourite mug, make yourself a beverage and follow along in this simple tutorial for making a command-line tool that translates DNA to protein. 
