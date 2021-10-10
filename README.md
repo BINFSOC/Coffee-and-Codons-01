@@ -31,7 +31,7 @@ Note that we are translating each **codon** (a 3-letter group of nucleotides) th
 
 ### Setup
 
-The first step is to create a new directory with the sample files given, so go ahead and glone the repository with `$ git clone`.  
+The first step is to create a new directory with the sample files given, so go ahead and clone the repository with `$ git clone`.  
 
 Our next step is to make a file to store our script, which we will write in `bash`.  As always, we add our **hashbang** to the top of the file so our shell knows how to interpret our file.  The best way to do this is to specify our `env` path instead of an **absolute** path to our `bash` installation.  This way, other users can use our script no matter where their `bash` is installed.  We can also change our permissions of the file so that we can execute the script from our shell.
 
